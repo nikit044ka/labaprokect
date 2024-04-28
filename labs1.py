@@ -68,7 +68,7 @@ class Ui_MainWindow(object):
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
-        self.label_Hello.setText(_translate("MainWindow", "Текстовый флаг М.В.А 4ИСПК1"))
+        self.label_Hello.setText(_translate("MainWindow", "Текстовый флаг А.Н.М 4ИСПК2"))
         self.pushButton_create.setText(_translate("MainWindow", "Нарисовать"))
         self.label.setText(_translate("MainWindow", "Изменить первый цвет"))
         self.label_2.setText(_translate("MainWindow", "Изменить второй цвет"))
